@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yndarra&label=Profile%20views&color=7F5AF0&style=flat-square" />
   <img src="https://img.shields.io/badge/AnkiWeb-5%20add--ons-2CB67D?style=flat-square&logo=anki&logoColor=white" />
-  <img src="https://img.shields.io/badge/public%20repos-15-7F5AF0?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyndarra&query=public_repos&label=public%20repos&color=7F5AF0&style=flat-square&logo=github" />
 </p>
 
 ---
