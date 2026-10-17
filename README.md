@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yndarra&label=Profile%20views&color=7F5AF0&style=flat-square" />
-  <img src="https://img.shields.io/badge/AnkiWeb-5%20add--ons-2CB67D?style=flat-square&logo=anki&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyndarra&query=public_repos&label=public%20repos&color=7F5AF0&style=flat-square&logo=github" />
+  <a href="https://github.com/yndarra"><img src="https://komarev.com/ghpvc/?username=yndarra&label=Profile%20views&color=7F5AF0&style=flat-square" /></a>
+  <a href="https://github.com/yndarra?tab=repositories&q=anki"><img src="https://img.shields.io/badge/AnkiWeb-5%20add--ons-2CB67D?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iNCIgeT0iMiIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE5IiByeD0iMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIgdHJhbnNmb3JtPSJyb3RhdGUoLTEwIDExIDExKSIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMy41IDcuMmwxLjMgMi43IDMgLjQtMi4yIDIuMS41IDMtMi42LTEuNC0yLjcgMS40LjUtMy0yLjItMi4xIDMtLjR6Ii8+PC9zdmc+Cg==" /></a>
+  <a href="https://github.com/yndarra?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyndarra&query=public_repos&label=public%20repos&color=7F5AF0&style=flat-square&logo=github" /></a>
 </p>
 
 ---
@@ -52,10 +52,10 @@ object Yndarra {
 
 <!-- Карточки репозиториев (github-readme-stats /api/pin), тёмная тема -->
 <p align="center">
-  <img width="49%" src="cards/todo.svg" alt="TODO — private Android app" />
-  <a href="https://github.com/yndarra/anime-sort"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=anime-sort&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/yndarra/media-study"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=media-study&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/yndarra/obsidian-rainbow-brackets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=obsidian-rainbow-brackets&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/yndarra/anime-sort"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=anime-sort&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/yndarra/anki-duplicate-by-position"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=anki-duplicate-by-position&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/yndarra/media-study"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=media-study&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/yndarra/obsidian-rainbow-brackets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=obsidian-rainbow-brackets&theme=tokyonight&hide_border=true&description_lines_count=3" /></a>
 </p>
 
 <details>
