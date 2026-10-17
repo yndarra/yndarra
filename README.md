@@ -52,9 +52,9 @@ object Yndarra {
 
 <!-- Карточки репозиториев (github-readme-stats /api/pin), тёмная тема -->
 <p align="center">
+  <img width="49%" src="cards/todo.svg" alt="TODO — private Android app" />
   <a href="https://github.com/yndarra/anime-sort"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=anime-sort&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/yndarra/media-study"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=media-study&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/yndarra/traffic-flow-cellular-automata"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=traffic-flow-cellular-automata&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/yndarra/obsidian-rainbow-brackets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yndarra&repo=obsidian-rainbow-brackets&theme=tokyonight&hide_border=true" /></a>
 </p>
 
